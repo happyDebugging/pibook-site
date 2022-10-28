@@ -1,5 +1,5 @@
 ---
-author: m-oikonomou
+author: happyDebugging
 title: "Friedrich-Horst Papenmeier"
 image_url: /images/friedrich-horst-papenmeier-thumb.png
 caption: "O Friedrich-Horst Papenmeier ανακάλυψε την συσκευή Braillex, την πρώτη συσκευή με ηλεκτρονική οθόνη Braille."
