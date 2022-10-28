@@ -16,7 +16,7 @@
 	branch = master
 [submodule "_notes"]
 	path = _notes
-	url = https://github.com/pibook/notes.git
+	url = https://github.com/happyDebugging/notes.git
 	branch = master
 [submodule "_bibliography"]
 	path = _bibliography
