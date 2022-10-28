@@ -20,15 +20,12 @@
 	branch = master
 [submodule "_bibliography"]
 	path = _bibliography
-	url = https://github.com/pibook/bibliography.git
+	url = https://github.com/happyDebugging/bibliography.git
 	branch = master
 [submodule "_includes/text"]
 	path = _includes/text
 	url = https://github.com/happyDebugging/text.git
 	branch = main 
-[submodule "bibliography"]
-	path = bibliography
-	url = https://github.com/happyDebugging/bibliography.git
 [submodule "notes"]
 	path = notes
 	url = https://github.com/happyDebugging/notes.git
